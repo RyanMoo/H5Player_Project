@@ -141,25 +141,25 @@ body {
   background-position: 50%;
 }
 .content-wrapper .play-control .like-btn {
-  background-image: url(/img/icon-like.png);
+  background-image: url(../img/icon-like.png);
 }
 .content-wrapper .play-control .like-btn.liked {
-  background-image: url(/img/icon-like-solid.png);
+  background-image: url(../img/icon-like-solid.png);
 }
 .content-wrapper .play-control .prev-btn {
-  background-image: url(/img/icon-prev.png);
+  background-image: url(../img/icon-prev.png);
 }
 .content-wrapper .play-control .play-btn {
-  background-image: url(/img/icon-play.png);
+  background-image: url(../img/icon-play.png);
 }
 .content-wrapper .play-control .play-btn.playing {
-  background-image: url(/img/icon-pause.png);
+  background-image: url(../img/icon-pause.png);
 }
 .content-wrapper .play-control .next-btn {
-  background-image: url(/img/icon-next.png);
+  background-image: url(../img/icon-next.png);
 }
 .content-wrapper .play-control .list-btn {
-  background-image: url(/img/icon-list.png);
+  background-image: url(../img/icon-list.png);
 }
 .list-wrapper {
   position: fixed;
