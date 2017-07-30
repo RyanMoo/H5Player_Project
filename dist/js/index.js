@@ -2,7 +2,7 @@ var $ = window.Zepto;
 var $scope = $(document.body);
 var root = window.player;
 var songList;
-var dataUrl = '/mock/data.json';
+var dataUrl = '.../mock/data.json';
 var render = root.render;
 var controlManager;
 var audioManager = new root.audioManager();
